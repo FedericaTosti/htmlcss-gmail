@@ -1,0 +1,30 @@
+.a {
+  background-color: #faebd7;
+  text-align: center;
+}
+
+.b{
+  border-bottom:2px solid black;
+  margin-bottom: 10px
+}
+
+.c{
+  border-bottom:2px solid black;
+  margin-bottom: 10px
+}
+
+.d {
+  background-color: yellow;
+  border-radius: 20px;
+}
+
+.e{
+  border-bottom:2px solid black;
+  margin-bottom: 10px
+}
+.f{
+  font-family: fantasy;
+}
+.g{
+  font-family: cursive;
+}
